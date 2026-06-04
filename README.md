@@ -84,7 +84,7 @@ Download and install the package for your platform → Run → Import a template
 One-click installer — no need to configure Python or Node.js locally.
 
 macOS (Apple Silicon)	macOS (Intel)	Windows
-⬇️ Download	⬇️ Download	⬇️ Download
+⬇️ Download	https://100agents.feishu.cn/wiki/H0XHwKUz0izSeGkhhzUcmhwZn7b#Y8MSdJKHVoE1Vaxq26zcINGEnpf⬇️ Download	⬇️ Download
 Note: Open the Releases page and pick the installer for your platform.
 
 Developers: Customization and Extension
