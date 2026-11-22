@@ -1,5 +1,35 @@
-# Goodable-web-builder
-Website Builder
+ImGoodBai
+goodable
+Repository navigation
+Code
+Issues
+3
+ (3)
+Pull requests
+Agents
+Actions
+Projects
+Security and quality
+Insights
+goodable/resources/docs
+/README_EN.md
+Go to file
+t
+T
+ImGoodBai
+ImGoodBai
+docs: move CONTRIBUTING.md, SECURITY.md, README_EN.md to resources/do…
+ff211c9
+ · 
+10 months ago
+
+Preview
+
+Code
+
+Blame
+259 lines (177 loc) · 11 KB
+Goodable Logo
 Goodable
 中文 | English
 
@@ -84,7 +114,7 @@ Download and install the package for your platform → Run → Import a template
 One-click installer — no need to configure Python or Node.js locally.
 
 macOS (Apple Silicon)	macOS (Intel)	Windows
-⬇️ Download	https://100agents.feishu.cn/wiki/H0XHwKUz0izSeGkhhzUcmhwZn7b#Y8MSdJKHVoE1Vaxq26zcINGEnpf⬇️ Download	⬇️ Download
+⬇️ Download	⬇️ Download	⬇️ Download
 Note: Open the Releases page and pick the installer for your platform.
 
 Developers: Customization and Extension
